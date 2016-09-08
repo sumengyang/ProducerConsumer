@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author smy
+ *
+ */
+package pipedinputstream;
